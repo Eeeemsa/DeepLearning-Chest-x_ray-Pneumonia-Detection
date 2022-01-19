@@ -23,25 +23,21 @@ Chest X-ray images (anterior-posterior) were selected of pediatric patients of o
 ```
 
 ## Objectives:
-```
-- High accuracy 
-- Less medical test 
-- Low cost 
-- Reduce time
-- Reduce death rate 
-- Getting knowledge about machine learning techniques 
-- Determining binary classification of lung diseases 
-```
+- [x] High accuracy 
+- [x] Less medical test 
+- [x] Low cost 
+- [x] Reduce time
+- [x] Reduce death rate 
+- [x] Getting knowledge about machine learning techniques 
+- [x] Determining binary classification of lung diseases 
 
 
 ## Deep Learning Models:
-```
 - Sequential
 - Vgg16
 - Vgg19
 - MobileNetV2
 - InceptionV3
-```
 
 ## Tools:
 ```
