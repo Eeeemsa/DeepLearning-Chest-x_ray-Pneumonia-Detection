@@ -8,11 +8,11 @@ Chest X-rays are currently the best available method for diagnosing pneumonia, p
 
 ## Problem Statement:
 ```
+Providing a clinical aid for higher accuracy image reads of diseases that are hard to diagnose.
 Clinical diagnoses from chest X-rays can be challenging, however, even by skilled radiologists.
 The diagnosis of pneumonia from chest X-rays is difficult for several reasons:
-1.	The appearance of pneumonia in a chest X-ray can be very vague depending on the stage of the infection
-2.	Pneumonia often overlaps with other diagnoses
-Providing a clinical aid for higher accuracy image reads of diseases that are hard to diagnose.
+1. The appearance of pneumonia in a chest X-ray can be very vague depending on the stage of the infection
+2. Pneumonia often overlaps with other diagnoses
 ```
 
 ## Dataset description:
