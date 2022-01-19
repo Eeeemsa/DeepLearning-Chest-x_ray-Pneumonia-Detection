@@ -3,7 +3,8 @@
 ## Introduction:
 ```
 In our final project at T5 bootcamp we will build models that can detect the presence of pneumonia with chest X-rays using Deep Convololutional Neural Network.
-Chest X-rays are currently the best available method for diagnosing pneumonia, playing a crucial role in clinical care. Over 150 million people get infected with pneumonia on an annual basis especially children under 5 years old.
+Chest X-rays are currently the best available method for diagnosing pneumonia, playing a crucial role in clinical care. 
+Over 150 million people get infected with pneumonia on an annual basis especially children under 5 years old.
 ```
 
 ## Problem Statement:
